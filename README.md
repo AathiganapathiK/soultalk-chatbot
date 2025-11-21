@@ -49,7 +49,7 @@ SoulTalk is a web-based emotional wellness chatbot designed to help users reflec
 | Storage          | Local file system (uploads/audio)                 | Stores uploaded voice messages.                     |
 
 # Project Structure:
-'
+`
 SoulTalk/
 │
 ├── backend/
@@ -81,7 +81,7 @@ SoulTalk/
 │
 ├── .gitignore
 └── README.md
-'
+`
 
 # How It Works:
 1. User logs in via Google.
