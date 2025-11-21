@@ -1,0 +1,13 @@
+flask
+flask-cors
+pymongo
+transformers
+python-dotenv
+cohere
+torch
+pandas
+numpy
+scikit-learn
+joblib
+librosa
+soundfile
